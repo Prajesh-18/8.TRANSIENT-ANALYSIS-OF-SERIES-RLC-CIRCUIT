@@ -4,7 +4,7 @@
 
 To determine transient response of a series RLC circuit using Multisim Simulator.
 
-**APPARATUS REQUIRED:**
+**APPARATUS REQUIRED:** 
 
 <img width="509" height="246" alt="image" src="https://github.com/user-attachments/assets/3e5e2d91-c638-4c85-b2cb-cc88f2ca8306" />
 
